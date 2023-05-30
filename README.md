@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-Collection of the LeetCode problems i have solved
+Collection of the LeetCode problems I have solved
