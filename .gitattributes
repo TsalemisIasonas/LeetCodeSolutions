@@ -1,2 +1,2 @@
-*.dart linguist-language=Dart
+*.dart linguist-detectable=true
 *.sql linguist-detectable=true
