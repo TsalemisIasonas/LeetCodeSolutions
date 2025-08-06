@@ -21,6 +21,7 @@ Collection of the LeetCode problems I have solved
 | [0196-delete-duplicate-emails](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
