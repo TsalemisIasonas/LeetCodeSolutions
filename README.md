@@ -22,6 +22,7 @@ Collection of the LeetCode problems I have solved
 | [0197-rising-temperature](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0627-swap-salary](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1523-capital-gainloss) |
