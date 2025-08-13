@@ -21,6 +21,7 @@ Collection of the LeetCode problems I have solved
 | [0196-delete-duplicate-emails](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/0627-swap-salary) |
