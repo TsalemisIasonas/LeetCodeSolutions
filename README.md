@@ -28,6 +28,7 @@ Collection of the LeetCode problems I have solved
 | [1153-product-sales-analysis-i](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1179-game-play-analysis-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1523-capital-gainloss) |
 | [1734-bank-account-summary-ii](https://github.com/TsalemisIasonas/LeetCodeSolutions/tree/master/1734-bank-account-summary-ii) |
